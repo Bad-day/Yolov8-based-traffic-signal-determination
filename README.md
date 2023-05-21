@@ -9,11 +9,8 @@ It is linked to capstone design and graduation works, and it is still incomplete
 
 </div></br></br>
 
-<div align="center">
-
 ## Tech Stacks Used
-  
-</div>
+
 
 ----------------------------------
 <div align="center">
@@ -25,7 +22,9 @@ It is linked to capstone design and graduation works, and it is still incomplete
 <img src="https://img.shields.io/badge/anaconda-44A833?style=flat&logo=anaconda&logoColor=white" />
 
  ### + Learning Environments , Intergration
- 
+
+</div>
+
  <div align="center">
     <a href="https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb">
         <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-colab-small.png" width="15%"/>
