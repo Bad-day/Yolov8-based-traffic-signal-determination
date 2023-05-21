@@ -25,11 +25,23 @@ It is linked to capstone design and graduation works, and it is still incomplete
 <img src="https://img.shields.io/badge/anaconda-44A833?style=flat&logo=anaconda&logoColor=white" />
 
  ### + Learning Environments , Intergration
-|<img src="https://github.com/Bad-day/Yolov8-based-traffic-signal-determination/assets/75732202/dbf9f867-f43b-4585-8181-8ccbbc27396d" height="50%" width="50%">|<img src="https://github.com/Bad-day/Yolov8-based-traffic-signal-determination/assets/75732202/6bac6a2e-41b9-455d-8a14-19021b929033" height="80%" width="80%">|<img src="https://github.com/Bad-day/Yolov8-based-traffic-signal-determination/assets/75732202/b8f758d9-e83f-4470-910e-f10e61d575a6" height="50%" width="50%">|<img src="https://github.com/Bad-day/Yolov8-based-traffic-signal-determination/assets/75732202/f0aefb56-4d28-4280-9352-dbcdc6ba0b9c" height="50%" width="50%">|
-|------|---|---|------|
-
+ 
+ <div align="center">
+    <a href="https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb">
+        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-colab-small.png" width="15%"/>
+    </a>
+    <a href="https://hub.docker.com/r/ultralytics/yolov5">
+        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-docker-small.png" width="15%"/>
+    </a>
+    <a href="https://github.com/ultralytics/yolov5/wiki/GCP-Quickstart">
+        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-gcp-small.png" width="15%"/>
+    </a>
+  </br>
+      <a href="https://roboflow.com/?ref=ultralytics">
+        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-roboflow-long.png" width="49%"/>
+    </a>
+  
 </div>
-
 </br></br>
 
 ## data set
@@ -62,6 +74,16 @@ To aim for a high mAP, more than 3,000 photos will be collected and about 800 ph
 ## Why Yolov8?
 ----------------------
 ![image](https://github.com/Bad-day/Yolov8-based-traffic-signal-determination/assets/75732202/fc818d4c-86e2-497e-bdc4-cfc9262593b9)
+</br>
+<div align="center">
+   <a href="https://github.com/ultralytics/yolov5/actions"><img src="https://github.com/ultralytics/yolov5/workflows/CI%20CPU%20testing/badge.svg" alt="CI CPU testing"></a>
+   <a href="https://zenodo.org/badge/latestdoi/264818686"><img src="https://zenodo.org/badge/264818686.svg" alt="YOLOv5 Citation"></a>
+   <a href="https://hub.docker.com/r/ultralytics/yolov5"><img src="https://img.shields.io/docker/pulls/ultralytics/yolov5?logo=docker" alt="Docker Pulls"></a>
+   <br>
+   <a href="https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+   <a href="https://www.kaggle.com/ultralytics/yolov5"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
+   <a href="https://join.slack.com/t/ultralytics/shared_invite/zt-w29ei8bp-jczz7QYUmDtgo6r6KcMIAg"><img src="https://img.shields.io/badge/Slack-Join_Forum-blue.svg?logo=slack" alt="Join Forum"></a>
+</div>
 
 </br>
 
@@ -75,5 +97,14 @@ To aim for a high mAP, more than 3,000 photos will be collected and about 800 ph
 
 </br>
 
+
+
+<!--
+<a align="center" href="https://ultralytics.com/yolov5" target="_blank">
+<img width="800" src="https://github.com/ultralytics/yolov5/releases/download/v1.0/banner-api.png"></a>
+-->
+
+
+  
 ![image](https://github.com/Bad-day/Yolov8-based-traffic-signal-determination/assets/75732202/9de6b5c3-ac94-4e78-bab8-54d946707769)
 
