@@ -1,4 +1,4 @@
-# Yolov8-based-traffic-signal-determination
+# Yolov8-기반 시각 및 색각이상자를 위한 신호 판정 시스템
 </br> 
 traffic lights detection for people with Visual and color vision abnormalities. </br>
 It is linked to capstone design and graduation works, and it is still incomplete and learning is steadily progressing.
@@ -7,6 +7,7 @@ It is linked to capstone design and graduation works, and it is still incomplete
 
 ![KakaoTalk_20230521_175226884](https://github.com/Bad-day/Yolov8-based-traffic-signal-determination/assets/75732202/6ecd00b4-89f5-48d0-8ac9-214486df7437)
 
+![KakaoTalk_20230521_175226884](https://github.com/Bad-day/Yolov8-based-traffic-signal-determination/blob/main/KakaoTalk_20250706_234532345.gif?raw=true)
 </div></br></br>
 
 ## Tech Stacks Used
