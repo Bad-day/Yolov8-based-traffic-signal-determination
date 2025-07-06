@@ -43,7 +43,7 @@ It is linked to capstone design and graduation works, and it is still incomplete
 </div>
 </br></br>
 
-## data set
+## Data set
 
 --------------
 
