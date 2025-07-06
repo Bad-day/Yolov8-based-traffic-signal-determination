@@ -65,10 +65,10 @@ To aim for a high mAP, more than 3,000 photos will be collected and about 800 ph
 
 
 ## System Flow and Structural diagram
-------------------------------------------
-
-<img src="https://github.com/Bad-day/Yolov8-based-traffic-signal-determination/assets/75732202/26ae81a4-4a27-4958-9224-a9908058b752" height="400px" width="480px">
-<img src="https://github.com/Bad-day/Yolov8-based-traffic-signal-determination/blob/main/KakaoTalk_20250706_233951822.jpg?raw=true" height="400px" width=480px">
+-----------------------------------------
+<div align="center">
+  <img src="https://github.com/Bad-day/Yolov8-based-traffic-signal-determination/blob/main/KakaoTalk_20250706_233951822.jpg?raw=true" height="400px" width="480px">
+</div>
 
 
 
